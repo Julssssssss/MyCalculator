@@ -8,7 +8,7 @@ namespace calcu
         static void Main(string[] args)
         {
            Operators operators = new Operators();
-           operators.Problem();
+           operators.Inputs();
         }
     }
 }

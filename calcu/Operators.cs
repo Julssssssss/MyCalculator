@@ -7,7 +7,8 @@ namespace calcu
         private string Operation = string.Empty;
         private double FirstNum;
         private double SecNum;
-        public void Problem()
+
+        public void Inputs()
         {
             try{
                 Console.WriteLine("Enter 1st number: ");
