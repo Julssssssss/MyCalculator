@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\julianna\\Desktop\\MyCalculator\\calcu\\calcu.csproj": {}
+    "D:\\MyCalculator\\calcu\\calcu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\julianna\\Desktop\\MyCalculator\\calcu\\calcu.csproj": {
+    "D:\\MyCalculator\\calcu\\calcu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\julianna\\Desktop\\MyCalculator\\calcu\\calcu.csproj",
+        "projectUniqueName": "D:\\MyCalculator\\calcu\\calcu.csproj",
         "projectName": "calcu",
-        "projectPath": "C:\\Users\\julianna\\Desktop\\MyCalculator\\calcu\\calcu.csproj",
-        "packagesPath": "C:\\Users\\julianna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\julianna\\Desktop\\MyCalculator\\calcu\\obj\\",
+        "projectPath": "D:\\MyCalculator\\calcu\\calcu.csproj",
+        "packagesPath": "C:\\Users\\viole\\.nuget\\packages\\",
+        "outputPath": "D:\\MyCalculator\\calcu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\julianna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\viole\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
